@@ -1,0 +1,6 @@
+# Task - 1 Bookxpert Search
+# Core libraries
+rapidfuzz
+# to ADD colors to the output console
+colorama
+
